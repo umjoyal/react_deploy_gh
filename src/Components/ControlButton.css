@@ -1,0 +1,9 @@
+.controlButton{
+    height: 36px;
+    flex-grow: 1;
+}
+
+.controlButton:active{
+    background-color: black;
+    color: white;
+}
